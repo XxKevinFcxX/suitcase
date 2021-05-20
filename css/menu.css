@@ -1,0 +1,131 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Letras */
+
+.letra1{
+
+    font-family: 'Farro', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    font-size:1.2em;
+}
+
+.letra2{
+
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    font-size:1.2em;
+}
+
+/* Colores */
+
+.azul{
+
+    background-color: #368eec;
+}
+
+.naranja{
+
+    background-color: #ff931f;
+}
+
+/* Menu */
+
+#navbar nav{
+
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%; 
+    z-index: 2;
+
+    background-color: #368eec;
+    position: fixed;
+    
+}
+
+#navbar nav:hover{
+
+    background-color: #ff931f;
+    transition-duration: 0.4s;
+    
+}
+
+#enlace1{
+
+    font-size: 1.9em;
+    color: black;
+    text-decoration: none;
+    margin-right: 4.4%;
+}
+
+#enlace2{
+
+    font-size:1.2em;
+    margin-left: 2.7%;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+#enlace2:hover{
+
+    color: #000000;
+}
+
+/* Menu colpasado */
+
+.dropdown-menu{
+
+    width: 100px;
+
+}
+
+#colapsado-enlace1{
+
+    font-size: 1.9em;
+    color: black;
+    text-decoration: none;
+}
+
+#botonHamburguesa{
+
+    position: absolute;
+    left: 87%;
+    top: 15%;
+    color: white;
+    text-decoration: none;
+    border: none;
+    background-color: transparent;
+    font-size:1.9em;
+    
+}
+#Menu-right{
+
+    background-color: #ff8400;
+}
+
+
+.botonCerrar{
+
+    color: white;
+    font-size: 2em;
+}
+
+#linea-menuColpasado{
+
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    height: 4px;
+
+}
+
+
+
+
+
+
+

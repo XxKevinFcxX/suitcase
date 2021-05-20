@@ -1,0 +1,19 @@
+/* Banner, boton y parrafo1 */
+
+#contenido1{
+
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 13%;
+
+}
+
+@media screen and (max-width:560px) {
+
+	#contenido1 {
+
+		padding-top: 22%;
+		
+	}
+}
+

@@ -1,0 +1,49 @@
+/* Banner, boton y parrafo1 */
+
+#contenido1{
+
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 8%;
+
+}
+
+@media screen and (max-width:1197px){
+
+	#contenido1 {
+
+		padding-top: 10%;
+		
+	}
+}
+
+@media screen and (max-width:767px){
+
+	#contenido1 {
+
+		padding-top: 0%;
+		
+	}
+}
+
+@media screen and (max-width:522px){
+
+	#contenido1 {
+
+		padding-top: 3%;
+		
+	}
+}
+
+#userImg{
+
+    
+    margin-top: 40%;
+    margin-bottom: 10%;
+}
+
+#userName{
+
+    margin-top: 79%;
+    text-align: center;
+}

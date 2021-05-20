@@ -1,0 +1,108 @@
+/* Banner, boton y parrafo1 */
+
+#contenido1{
+
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10%;
+    padding-bottom: 3.6%;
+
+}
+#contenido2{
+
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+
+}
+
+@media screen and (max-width:560px) {
+
+	#contenido1 {
+
+		padding-top: 22%;
+		
+	}
+}
+
+#contendor-azul{
+
+    background-color: #368eec;
+    padding: 0%;
+    margin: 0%;
+    height: 2000px;
+}
+
+#banner1{
+
+    margin-top:0%;
+
+}
+
+#mejoraPuntaje{
+
+    position: relative;
+    top: 20%;
+
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    font-size:1.9em;
+    color: #ffffff;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+#contenedor-boton{
+
+    position: relative;
+    top: 22%;
+
+    background-color: #FF8300;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 100px;
+    
+
+}
+
+#contenedor-boton:hover{
+
+    transition-duration: 0.3s;
+    background-color: #ffffff;
+    
+   
+}
+
+#Crear-cuenta{
+
+    color: rgb(255, 255, 255);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    font-size:1.2em;
+
+    text-decoration: none;
+}
+
+#Crear-cuenta :hover{
+    
+    color: #368eec;
+    
+}
+
+#parrafo1-contenedor{
+
+    margin-top: 70px;
+}
+
+.parrafo1{
+
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    font-size:1.2em;
+    color: rgb(0, 0, 0);
+}

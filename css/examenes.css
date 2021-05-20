@@ -1,0 +1,71 @@
+/* Banner, boton y parrafo1 */
+
+.relativo{
+    position: relative;
+}
+
+
+#contenido1{
+
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 8%;
+
+}
+
+@media screen and (max-width:1600px){
+
+	#contenido1 {
+
+		padding-top: 10%;
+		
+	}
+}
+
+@media screen and (max-width:1000px){
+
+	#contenido1 {
+
+		padding-top: 15%;
+		
+	}
+}
+
+@media screen and (max-width:522px){
+
+	#contenido1 {
+
+		padding-top: 23%;
+		
+	}
+}
+
+.bordes-azul{
+    border: solid 3px #368eec;
+
+
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 1%;
+
+    margin-bottom: 7.3%;
+    
+}
+
+.bordes-naranja{
+    border: solid 3px #ff931f;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 7.3%;
+    padding: 1%;
+
+}
+
+
+
+
+
+
