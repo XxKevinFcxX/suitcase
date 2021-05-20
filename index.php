@@ -31,7 +31,7 @@
 
                 <a href="registro.php" id="Crear-cuenta">
                     <div id="contenedor-boton">
-                        <i class="me-2 fas fa-user-graduate"></i>Crear cuenta
+                        <i class="me-2 fas fa-user-graduate"></i>Crea cuenta
                     </div>
                 </a>
 
